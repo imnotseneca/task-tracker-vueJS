@@ -1,5 +1,7 @@
 # task-tracker
 
+##Simple task-tracker APP made with VueJS to learn the fundamentals of the framework.
+
 ## Project setup
 ```
 npm install
