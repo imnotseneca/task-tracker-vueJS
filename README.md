@@ -1,6 +1,6 @@
 # task-tracker
 
-##Simple task-tracker APP made with VueJS to learn the fundamentals of the framework.
+<p>Simple task-tracker APP made with VueJS to learn the fundamentals of the framework.</p>
 
 ## Project setup
 ```
